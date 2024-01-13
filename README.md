@@ -22,6 +22,3 @@ Weather API: <https://openweathermap.org/api>
 ## Setup
 
 You need to replace you unique API Key for OpenWeatherMap API in the following static property . 
-```
-
-
